@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
       backgroundColor: "#f2f2f2",
       color: "#333",
     }}>
-      David Meraz — Coming Soon
+      David Meraz — Product Designer
     </div>
   );
 }
