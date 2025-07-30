@@ -10,10 +10,10 @@ function App() {
       alignItems: "center",
       fontSize: "2.5rem",
       fontFamily: "sans-serif",
-      backgroundColor: "#f2f2f2",
+
       color: "#333",
     }}>
-      David Meraz — Product Designer
+      David Meraz — Learn React with ChatGPT
     </div>
   );
 }
